@@ -1,5 +1,5 @@
 
-# SmartBrain - v1 Contains the Frontend with signIn form and the image recognition app
+# SmartBrain - v1 Contains the Frontend with signIn form and the face recognition app
 Project for Web Development course
 
 1. Clone this repo
