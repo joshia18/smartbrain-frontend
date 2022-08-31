@@ -9,4 +9,3 @@ Project for Web Development course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-The complete app connected to the backend `smart-brain-api` was deployed using heroku https://smart-brain-frontend-ap.herokuapp.com/
